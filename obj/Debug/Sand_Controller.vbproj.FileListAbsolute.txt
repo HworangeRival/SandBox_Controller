@@ -1,0 +1,9 @@
+C:\Users\hwrv\Desktop\vb\Sand_Controller\bin\Debug\Sand_Controller.exe
+C:\Users\hwrv\Desktop\vb\Sand_Controller\bin\Debug\Sand_Controller.pdb
+C:\Users\hwrv\Desktop\vb\Sand_Controller\obj\Debug\Sand_Controller.Resources.resources
+C:\Users\hwrv\Desktop\vb\Sand_Controller\obj\Debug\Sand_Controller.vbproj.GenerateResource.cache
+C:\Users\hwrv\Desktop\vb\Sand_Controller\obj\Debug\Sand_Controller.vbproj.CoreCompileInputs.cache
+C:\Users\hwrv\Desktop\vb\Sand_Controller\obj\Debug\Sand_Controller.exe
+C:\Users\hwrv\Desktop\vb\Sand_Controller\obj\Debug\Sand_Controller.pdb
+C:\Users\hwrv\Desktop\vb\Sand_Controller\obj\Debug\Sand_Controller.Form1.resources
+C:\Users\hwrv\Desktop\vb\Sand_Controller\obj\Debug\Sand_Controller.vbproj.AssemblyReference.cache
